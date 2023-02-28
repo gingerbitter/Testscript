@@ -9,8 +9,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 public class JavaTodo {
-	    String username = "vanishree.bhavanur";
-	    String accesskey = "CLNAk7uxVnVkaKZrixAhGITIYzAq5FjshDfUd2fdQVdu5aPiSw";
+	    String username = "nandini.priya";
+	    String accesskey = "paQV3QrAnNpmpp8ITXZXDWH6CLtgQUWIu9tLg9cpM0NmveKCWE";
 	    static RemoteWebDriver driver = null;
 	    String gridURL = "@hub.lambdatest.com/wd/hub";
 	    boolean status = false;
